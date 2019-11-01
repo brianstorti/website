@@ -120,7 +120,7 @@
   - DefaultValue: ""
     Name: address
     Shorthand: ""
-    Usage: The address at which to serve requests
+    Usage: The address at which to serve requests (*)
   - DefaultValue: ""
     Name: help
     Shorthand: h
